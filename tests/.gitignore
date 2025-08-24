@@ -1,0 +1,8 @@
+# Test output files
+test_*.png
+test_*.txt
+test_*.json
+*.log
+
+# Temporary test files
+temp_*

@@ -11,3 +11,13 @@ wheels/
 
 # Project folders
 maira-2/
+
+# Environment variables (contains secrets)
+.env
+
+# Generated images and outputs
+*.png
+*.jpg
+*.jpeg
+attention_outputs/
+offload/
