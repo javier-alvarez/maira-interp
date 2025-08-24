@@ -1,0 +1,2 @@
+- This project uses uv to manage packages
+- Run tests and put the in a tests folder after every change
